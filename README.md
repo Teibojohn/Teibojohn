@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teibojohn
 - 👀 I’m interested in Bioinformatics 
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on with Researcher 
+- 💞️ I’m looking to collaborate on with Researchers in the area of Biomedical Sciences 
 - 📫 How to reach me https://www.linkedin.com/in/john-oluwafemi-teibo-77004a128
 
 <!---My email is teiboluwafemi@gmail.com 
